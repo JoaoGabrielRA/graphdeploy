@@ -1,4 +1,5 @@
 # GraphDeploy
+Group Members: Lucas Morais, João Gabriel, João Madruga
 Final project of the algorithms and data structures course.<br>
 Graph generated from a wikipedia network and virtualized using gephi <br>
 Link to visualize: https://joaogabrielra.github.io/graphdeploy/network/ <br>
